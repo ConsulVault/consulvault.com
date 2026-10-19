@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="ConsulVault mark">
+  <rect width="64" height="64" rx="14" fill="#302B29"/>
+  <path d="M22 18H36C42.6274 18 48 23.3726 48 30C48 36.6274 42.6274 42 36 42H26" stroke="#9A4F3D" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 46H28C21.3726 46 16 40.6274 16 34C16 27.3726 21.3726 22 28 22H38" stroke="#E8D9C8" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="22" cy="18" r="4" fill="#9A4F3D"/>
+  <circle cx="42" cy="46" r="4" fill="#E8D9C8"/>
+</svg>
